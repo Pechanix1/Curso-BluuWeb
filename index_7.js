@@ -21,4 +21,6 @@ const obtenerPokemones = async() => {
         console.log(error)
     }
 }
+
+console.log("Hola mundo")
 obtenerPokemones()
